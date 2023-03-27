@@ -1,0 +1,15 @@
+E:\VB\ClassWork\Arrays\dynamic_array\bin\Debug\net6.0\dynamic_array.exe
+E:\VB\ClassWork\Arrays\dynamic_array\bin\Debug\net6.0\dynamic_array.deps.json
+E:\VB\ClassWork\Arrays\dynamic_array\bin\Debug\net6.0\dynamic_array.runtimeconfig.json
+E:\VB\ClassWork\Arrays\dynamic_array\bin\Debug\net6.0\dynamic_array.dll
+E:\VB\ClassWork\Arrays\dynamic_array\bin\Debug\net6.0\dynamic_array.pdb
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\dynamic_array.vbproj.AssemblyReference.cache
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\dynamic_array.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\dynamic_array.AssemblyInfoInputs.cache
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\dynamic_array.AssemblyInfo.vb
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\dynamic_array.vbproj.CoreCompileInputs.cache
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\dynamic_array.dll
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\refint\dynamic_array.dll
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\dynamic_array.pdb
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\dynamic_array.genruntimeconfig.cache
+E:\VB\ClassWork\Arrays\dynamic_array\obj\Debug\net6.0\ref\dynamic_array.dll
