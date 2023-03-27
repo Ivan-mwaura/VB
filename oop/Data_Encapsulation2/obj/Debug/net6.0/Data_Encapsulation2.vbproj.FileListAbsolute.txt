@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\Data_Encapsulation2.vbproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\Data_Encapsulation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\Data_Encapsulation2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\Data_Encapsulation2.AssemblyInfo.vb
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\Data_Encapsulation2.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Data_Encapsulation2\bin\Debug\net6.0\Data_Encapsulation2.exe
+C:\Users\admin\source\repos\Data_Encapsulation2\bin\Debug\net6.0\Data_Encapsulation2.deps.json
+C:\Users\admin\source\repos\Data_Encapsulation2\bin\Debug\net6.0\Data_Encapsulation2.runtimeconfig.json
+C:\Users\admin\source\repos\Data_Encapsulation2\bin\Debug\net6.0\Data_Encapsulation2.dll
+C:\Users\admin\source\repos\Data_Encapsulation2\bin\Debug\net6.0\Data_Encapsulation2.pdb
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\Data_Encapsulation2.dll
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\refint\Data_Encapsulation2.dll
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\Data_Encapsulation2.pdb
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\Data_Encapsulation2.genruntimeconfig.cache
+C:\Users\admin\source\repos\Data_Encapsulation2\obj\Debug\net6.0\ref\Data_Encapsulation2.dll

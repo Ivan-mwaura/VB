@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Abstract classes and procedures\bin\Debug\net6.0\Abstract classes and procedures.exe
+C:\Users\admin\source\repos\Abstract classes and procedures\bin\Debug\net6.0\Abstract classes and procedures.deps.json
+C:\Users\admin\source\repos\Abstract classes and procedures\bin\Debug\net6.0\Abstract classes and procedures.runtimeconfig.json
+C:\Users\admin\source\repos\Abstract classes and procedures\bin\Debug\net6.0\Abstract classes and procedures.dll
+C:\Users\admin\source\repos\Abstract classes and procedures\bin\Debug\net6.0\Abstract classes and procedures.pdb
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\Abstract classes and procedures.vbproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\Abstract classes and procedures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\Abstract classes and procedures.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\Abstract classes and procedures.AssemblyInfo.vb
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\Abstract classes and procedures.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\Abstract classes and procedures.dll
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\refint\Abstract classes and procedures.dll
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\Abstract classes and procedures.pdb
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\Abstract classes and procedures.genruntimeconfig.cache
+C:\Users\admin\source\repos\Abstract classes and procedures\obj\Debug\net6.0\ref\Abstract classes and procedures.dll
