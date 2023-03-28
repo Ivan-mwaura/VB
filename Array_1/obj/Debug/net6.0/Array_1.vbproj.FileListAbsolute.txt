@@ -1,0 +1,15 @@
+E:\VB\ClassWork\Arrays\Array_1\bin\Debug\net6.0\Array_1.exe
+E:\VB\ClassWork\Arrays\Array_1\bin\Debug\net6.0\Array_1.deps.json
+E:\VB\ClassWork\Arrays\Array_1\bin\Debug\net6.0\Array_1.runtimeconfig.json
+E:\VB\ClassWork\Arrays\Array_1\bin\Debug\net6.0\Array_1.dll
+E:\VB\ClassWork\Arrays\Array_1\bin\Debug\net6.0\Array_1.pdb
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\Array_1.vbproj.AssemblyReference.cache
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\Array_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\Array_1.AssemblyInfoInputs.cache
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\Array_1.AssemblyInfo.vb
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\Array_1.vbproj.CoreCompileInputs.cache
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\Array_1.dll
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\refint\Array_1.dll
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\Array_1.pdb
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\Array_1.genruntimeconfig.cache
+E:\VB\ClassWork\Arrays\Array_1\obj\Debug\net6.0\ref\Array_1.dll

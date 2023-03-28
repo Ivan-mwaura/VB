@@ -1,0 +1,15 @@
+E:\VB\ClassWork\Arrays\Array_2\bin\Debug\net6.0\Array_2.exe
+E:\VB\ClassWork\Arrays\Array_2\bin\Debug\net6.0\Array_2.deps.json
+E:\VB\ClassWork\Arrays\Array_2\bin\Debug\net6.0\Array_2.runtimeconfig.json
+E:\VB\ClassWork\Arrays\Array_2\bin\Debug\net6.0\Array_2.dll
+E:\VB\ClassWork\Arrays\Array_2\bin\Debug\net6.0\Array_2.pdb
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\Array_2.vbproj.AssemblyReference.cache
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\Array_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\Array_2.AssemblyInfoInputs.cache
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\Array_2.AssemblyInfo.vb
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\Array_2.vbproj.CoreCompileInputs.cache
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\Array_2.dll
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\refint\Array_2.dll
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\Array_2.pdb
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\Array_2.genruntimeconfig.cache
+E:\VB\ClassWork\Arrays\Array_2\obj\Debug\net6.0\ref\Array_2.dll
